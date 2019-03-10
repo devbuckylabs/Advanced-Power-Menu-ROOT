@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Advanced Power Menu (ROOT)</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="reboot">Reboot</string>
+    <string name="recovery">Recovery</string>
+    <string name="bootloader">Bootloader</string>
+
+</resources>

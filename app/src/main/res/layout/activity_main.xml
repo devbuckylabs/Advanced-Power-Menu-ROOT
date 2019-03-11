@@ -33,7 +33,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/shutdown"
-                    android:textColor="@android:color/black"
+                    android:textColor="@color/textColor"
                     android:textSize="@dimen/text_size" />
             </LinearLayout>
         </RelativeLayout>
@@ -61,7 +61,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/reboot"
                     android:textSize="@dimen/text_size"
-                    android:textColor="@android:color/black" />
+                    android:textColor="@color/textColor" />
 
             </LinearLayout>
         </RelativeLayout>
@@ -89,7 +89,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/recovery"
                     android:textSize="@dimen/text_size"
-                    android:textColor="@android:color/black" />
+                    android:textColor="@color/textColor" />
             </LinearLayout>
         </RelativeLayout>
 
@@ -116,7 +116,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/bootloader"
                     android:textSize="@dimen/text_size"
-                    android:textColor="@android:color/black" />
+                    android:textColor="@color/textColor" />
             </LinearLayout>
         </RelativeLayout>
     </LinearLayout>
